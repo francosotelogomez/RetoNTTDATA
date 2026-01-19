@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Lista de Personas - Franco Sotelo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f4f4;
+            padding: 20px;
+            padding-top:0px;
+        }
+
+        .grid {/*el uso de grid asegura una web responsive*/
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 20px;
+        }
+
+        .card {/*la clase card se usa bastante en bootstrap, para simplificar el proyecto y no instalar bootstrap o usarlo como referencia, la creo aca*/
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+
+            .card img {
+                border-radius: 50%;/*para mostrarlo como tipo foto de perfil*/
+                width: 100px;
+            }
+
+        h1 {
+            color: #070e27;
+        }
+        footer {/*un pequeño distintivo, un clasico footer*/
+            background-color: #d3d3d3; 
+            color: #333;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            font-size: 14px;
+            border-top: 1px solid #bbb;
+        }
+    </style>
+</head>
+<body>
+    <div style="display:flex;justify-content:space-between ">
+
+        <h1>Lista de 10 Personas - Franco Sotelo</h1>
+        <img style="width:130px;" src="https://www.redseguridad.com/wp-content/uploads/sites/2/2024/07/nttdata-logofutureblue-1500x1000px-750x500.png" /><!--decoracion-->
+
+    </div>
+    <div id="user-grid" class="grid"></div><!--Contenedor donde estaran las personas listadas-->
+    <footer>
+        Hecho por Franco Sotelo, Analista Programador
+    </footer>
+    <script>
+        async function loadUsers() {
+            const res = await fetch('/api/persona');
+            const data = await res.json();
+            const container = document.getElementById('user-grid');
+            //aca se genera cada contenedor de cada persona, siguiendo un unico diseño para cada uno, tambien segui el orden mostrado en la diapositiva
+            container.innerHTML = data.map(u => `
+                        <div class="card">
+                            <img src="${u.foto}" alt="foto">
+                            <h3>${u.nombre}</h3>
+                            <p><strong>Género:</strong> ${u.genero}</p>
+                            <p><strong>Ubicación:</strong> ${u.ubicacion}</p>
+                            <p><strong>Correo electrónico:</strong> ${u.email}</p>
+                            <p><strong>Fecha de nacimiento:</strong> ${u.nacimiento}</p>
+                        </div>
+                    `).join('');
+        }
+        loadUsers();
+    </script>
+</body>
+</html>

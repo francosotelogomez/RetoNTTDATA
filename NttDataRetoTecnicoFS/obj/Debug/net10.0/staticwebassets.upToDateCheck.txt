@@ -1,0 +1,4 @@
+wwwroot\index.html
+wwwroot\README.md
+C:\Users\nalag\source\repos\NttDataRetoTecnicoFS\NttDataRetoTecnicoFS\wwwroot\index.html
+C:\Users\nalag\source\repos\NttDataRetoTecnicoFS\NttDataRetoTecnicoFS\wwwroot\README.md

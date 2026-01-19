@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "PersonaController",
+    "Method": "ObtenerPersonas",
+    "RelativePath": "api/Persona",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

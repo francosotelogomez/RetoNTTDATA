@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nalag\\source\\repos\\NttDataRetoTecnicoFS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28A926CF-4475-4E9B-9483-114FC597BB92}|NttDataRetoTecnicoFS\\NttDataRetoTecnicoFS.csproj|c:\\users\\nalag\\source\\repos\\nttdataretotecnicofs\\nttdataretotecnicofs\\nttdataretotecnicofs.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{28A926CF-4475-4E9B-9483-114FC597BB92}|NttDataRetoTecnicoFS\\NttDataRetoTecnicoFS.csproj|solutionrelative:nttdataretotecnicofs\\nttdataretotecnicofs.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A926CF-4475-4E9B-9483-114FC597BB92}|NttDataRetoTecnicoFS\\NttDataRetoTecnicoFS.csproj|c:\\users\\nalag\\source\\repos\\nttdataretotecnicofs\\nttdataretotecnicofs\\nttdataretotecnicofs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{28A926CF-4475-4E9B-9483-114FC597BB92}|NttDataRetoTecnicoFS\\NttDataRetoTecnicoFS.csproj|solutionrelative:nttdataretotecnicofs\\nttdataretotecnicofs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A926CF-4475-4E9B-9483-114FC597BB92}|NttDataRetoTecnicoFS\\NttDataRetoTecnicoFS.csproj|c:\\users\\nalag\\source\\repos\\nttdataretotecnicofs\\nttdataretotecnicofs\\wwwroot\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{28A926CF-4475-4E9B-9483-114FC597BB92}|NttDataRetoTecnicoFS\\NttDataRetoTecnicoFS.csproj|solutionrelative:nttdataretotecnicofs\\wwwroot\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A926CF-4475-4E9B-9483-114FC597BB92}|NttDataRetoTecnicoFS\\NttDataRetoTecnicoFS.csproj|c:\\users\\nalag\\source\\repos\\nttdataretotecnicofs\\nttdataretotecnicofs\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28A926CF-4475-4E9B-9483-114FC597BB92}|NttDataRetoTecnicoFS\\NttDataRetoTecnicoFS.csproj|solutionrelative:nttdataretotecnicofs\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A926CF-4475-4E9B-9483-114FC597BB92}|NttDataRetoTecnicoFS\\NttDataRetoTecnicoFS.csproj|c:\\users\\nalag\\source\\repos\\nttdataretotecnicofs\\nttdataretotecnicofs\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A926CF-4475-4E9B-9483-114FC597BB92}|NttDataRetoTecnicoFS\\NttDataRetoTecnicoFS.csproj|solutionrelative:nttdataretotecnicofs\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A926CF-4475-4E9B-9483-114FC597BB92}|NttDataRetoTecnicoFS\\NttDataRetoTecnicoFS.csproj|c:\\users\\nalag\\source\\repos\\nttdataretotecnicofs\\nttdataretotecnicofs\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A926CF-4475-4E9B-9483-114FC597BB92}|NttDataRetoTecnicoFS\\NttDataRetoTecnicoFS.csproj|solutionrelative:nttdataretotecnicofs\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A926CF-4475-4E9B-9483-114FC597BB92}|NttDataRetoTecnicoFS\\NttDataRetoTecnicoFS.csproj|c:\\users\\nalag\\source\\repos\\nttdataretotecnicofs\\nttdataretotecnicofs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A926CF-4475-4E9B-9483-114FC597BB92}|NttDataRetoTecnicoFS\\NttDataRetoTecnicoFS.csproj|solutionrelative:nttdataretotecnicofs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NttDataRetoTecnicoFS",
+              "DocumentMoniker": "C:\\Users\\nalag\\source\\repos\\NttDataRetoTecnicoFS\\NttDataRetoTecnicoFS\\NttDataRetoTecnicoFS.csproj",
+              "RelativeDocumentMoniker": "NttDataRetoTecnicoFS\\NttDataRetoTecnicoFS.csproj",
+              "ToolTip": "C:\\Users\\nalag\\source\\repos\\NttDataRetoTecnicoFS\\NttDataRetoTecnicoFS\\NttDataRetoTecnicoFS.csproj",
+              "RelativeToolTip": "NttDataRetoTecnicoFS\\NttDataRetoTecnicoFS.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-19T16:35:22.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NttDataRetoTecnicoFS",
+              "DocumentMoniker": "C:\\Users\\nalag\\source\\repos\\NttDataRetoTecnicoFS\\NttDataRetoTecnicoFS\\NttDataRetoTecnicoFS.csproj",
+              "RelativeDocumentMoniker": "NttDataRetoTecnicoFS\\NttDataRetoTecnicoFS.csproj",
+              "ToolTip": "C:\\Users\\nalag\\source\\repos\\NttDataRetoTecnicoFS\\NttDataRetoTecnicoFS\\NttDataRetoTecnicoFS.csproj*",
+              "RelativeToolTip": "NttDataRetoTecnicoFS\\NttDataRetoTecnicoFS.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-19T16:35:11.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\nalag\\source\\repos\\NttDataRetoTecnicoFS\\NttDataRetoTecnicoFS\\wwwroot\\README.md",
+              "RelativeDocumentMoniker": "NttDataRetoTecnicoFS\\wwwroot\\README.md",
+              "ToolTip": "C:\\Users\\nalag\\source\\repos\\NttDataRetoTecnicoFS\\NttDataRetoTecnicoFS\\wwwroot\\README.md",
+              "RelativeToolTip": "NttDataRetoTecnicoFS\\wwwroot\\README.md",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-01-19T16:19:47.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\nalag\\source\\repos\\NttDataRetoTecnicoFS\\NttDataRetoTecnicoFS\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "NttDataRetoTecnicoFS\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\nalag\\source\\repos\\NttDataRetoTecnicoFS\\NttDataRetoTecnicoFS\\Models\\Persona.cs",
+              "RelativeToolTip": "NttDataRetoTecnicoFS\\Models\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T15:54:50.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nalag\\source\\repos\\NttDataRetoTecnicoFS\\NttDataRetoTecnicoFS\\Program.cs",
+              "RelativeDocumentMoniker": "NttDataRetoTecnicoFS\\Program.cs",
+              "ToolTip": "C:\\Users\\nalag\\source\\repos\\NttDataRetoTecnicoFS\\NttDataRetoTecnicoFS\\Program.cs",
+              "RelativeToolTip": "NttDataRetoTecnicoFS\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T15:42:16.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\nalag\\source\\repos\\NttDataRetoTecnicoFS\\NttDataRetoTecnicoFS\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "NttDataRetoTecnicoFS\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\nalag\\source\\repos\\NttDataRetoTecnicoFS\\NttDataRetoTecnicoFS\\wwwroot\\index.html",
+              "RelativeToolTip": "NttDataRetoTecnicoFS\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-19T15:41:54.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "C:\\Users\\nalag\\source\\repos\\NttDataRetoTecnicoFS\\NttDataRetoTecnicoFS\\Controllers\\PersonaController.cs",
+              "RelativeDocumentMoniker": "NttDataRetoTecnicoFS\\Controllers\\PersonaController.cs",
+              "ToolTip": "C:\\Users\\nalag\\source\\repos\\NttDataRetoTecnicoFS\\NttDataRetoTecnicoFS\\Controllers\\PersonaController.cs",
+              "RelativeToolTip": "NttDataRetoTecnicoFS\\Controllers\\PersonaController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T15:40:14.875Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
