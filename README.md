@@ -1,4 +1,4 @@
-# Nuevo reto Bootcamp2 - Franco Sotelo
+# Reto tecnico - Franco Sotelo
 
 ## 1. Mi experiencia usando ASP.NET 
 
@@ -52,3 +52,4 @@ usar versionas mas antiguas
 Me gustaria agradecer al equipo de NTT data por esta oportunidad, fue un buen proyecto tecnico, realice todos los requerimientos solicitados yendome por un enfoque
 
 full-stack que es lo mas parecido a lo que hago en mi trabajo actual.
+
